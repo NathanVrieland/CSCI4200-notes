@@ -19,4 +19,8 @@
 - dynamic length strings need a runtime descriptor 
 - three approaches to dynamic length strings 
     - strings stored as linked list of characters 
-    - 
+    - store strings as an array of pointers to chars
+        - uses extra memory, but is faster 
+    - store complete strings in adjacent memory cells 
+        - when string grows, the entire string might need to be moved 
+    
