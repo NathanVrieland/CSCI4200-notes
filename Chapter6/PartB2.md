@@ -86,4 +86,4 @@
         - /\d+\.?\d*|\.\d+/
             - Strings of one or more digits, possible followed by a decimal point, followed by zero or more digits
             - or strings that ebgin witha  decimal point, followed by one or more digits
-            - basically a patter for written numbers 
+            - basically a patter for written numbers
