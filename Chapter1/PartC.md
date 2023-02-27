@@ -116,7 +116,7 @@
 
 ## Just-in-time compilers 
 - initially translate programs to an intermediate laguage 
-- then compiler subprograms as they are called 
+- then compile subprograms as they are called 
 - machine code kept for subsequent calls 
 - widley used in java programs
 - in essence, delayed compilers 
